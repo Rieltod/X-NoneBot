@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/xdlyy404/X-NoneBot/master/x-none.jpg" alt="X-NONE BOT" width="128" height="128"/>
+<img src="https://telegra.ph/file/91e1c3af213527b277eb8.jpg" alt="X-NONE BOT" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="X-NONE BOT" src="https://img.shields.io/badge/X-NONE BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
